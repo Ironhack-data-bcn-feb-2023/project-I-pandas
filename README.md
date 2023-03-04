@@ -33,7 +33,7 @@ The goal of this project is to combine everything you have learned about data wr
    - Create a `README.md` file on repo root with project documentation. Make sure to include as much useful information as possible. Someone that finds the README.md should be able to fully get a gist of the project without browsing your files.
    - Include a `.gitignore`
    - At least 1 jupyter notebook is required
-   - Including your functions in a `src.py` is very, very highly reccommended (maybe even mandatory, check with your instructors)
+   - Including your functions in a `src.py` is recommended but not required.
    - **DO NOT UPLOAD SHARKs ATTACK DATASET TO GITHUB**
 2. Open an `Issue` on this repo and paste your own repo's link.
 
